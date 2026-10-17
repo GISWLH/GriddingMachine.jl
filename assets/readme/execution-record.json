@@ -1,0 +1,14 @@
+{
+  "repo": "GISWLH/GriddingMachine.jl",
+  "environment": "EHPC PBS",
+  "execution_scope": "Preview of the original Julia package documentation rendered on EHPC. The Julia package and its data-processing examples were not executed in this environment.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "1b52da336245172385e2906ac112958e6056121b323f8101a4b182cb55583bfc"
+  },
+  "kind": "documentation preview",
+  "project_execution": false,
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}
