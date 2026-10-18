@@ -136,14 +136,3 @@ For data contributors who are experienced Github and Julia users, we also welcom
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
-
-
-<!-- readme-visual-refresh:execution -->
-## Documentation preview · 17 October 2026
-
-![Preview of the original Julia package documentation rendered on EHPC. The Julia package and its data-processing examples were not executed in this environment.](assets/readme/execution-result.png)
-
-Preview of the original Julia package documentation rendered on EHPC. The Julia package and its data-processing examples were not executed in this environment.
-
-[Capture record and checksums](assets/readme/execution-record.json).
-<!-- /readme-visual-refresh:execution -->
